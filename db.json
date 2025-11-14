@@ -1,7 +1,7 @@
 {
   "client": {
     "id": "994b079b-c6b9-4377-9bea-005b2afda09a",
-    "mid": "00123456789"
+    "mid": "00123456789",
     "secret": "my-secret-password"
   },
   "message": {
