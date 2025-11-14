@@ -5,10 +5,10 @@
     "secret": "my-secret-password"
   },
   "message": {
-    "code": 200,
+    "code": "200",
     "text": "Approved",
     "redirect_url": "http://example.com",
     "correlation_id": "c3a90a57-ef95-475e-ab94-d50c545b0c45"
   },
-  "success": true
+  "success": "yes"
 }
