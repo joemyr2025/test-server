@@ -1,8 +1,13 @@
 {
   "clients": [
-    { "id": 1, "uuid": "994b079b-c6b9-4377-9bea-005b2afda09a", "mid": "00123456789", "secret": "my-secret-password"}
-  ], 
-  "status": {  
+    {
+      "id": 1,
+      "uuid": "994b079b-c6b9-4377-9bea-005b2afda09a",
+      "mid": "00123456789",
+      "secret": "my-secret-password"
+    }
+  ],
+  "status": {
     "code": 200,
     "text": "Approved",
     "redirect_url": "http://example.com",
